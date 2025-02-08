@@ -1,0 +1,22 @@
+{
+  "name": "Благой двор",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "bsj1iTLs0SolAqjH",
+  "description": "",
+  "sort": 100000,
+  "color": "#00b35f",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601054975,
+    "modifiedTime": 1738601054975,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!bsj1iTLs0SolAqjH"
+}

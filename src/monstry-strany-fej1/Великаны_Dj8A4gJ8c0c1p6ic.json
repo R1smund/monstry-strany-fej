@@ -1,0 +1,22 @@
+{
+  "name": "Великаны",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "Dj8A4gJ8c0c1p6ic",
+  "description": "",
+  "sort": 175000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601093502,
+    "modifiedTime": 1738601109678,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!Dj8A4gJ8c0c1p6ic"
+}

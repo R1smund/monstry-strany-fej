@@ -1,0 +1,22 @@
+{
+  "name": "Весенний двор",
+  "sorting": "a",
+  "folder": "bsj1iTLs0SolAqjH",
+  "type": "Actor",
+  "_id": "dOy9q3VwrIM2n3Hj",
+  "description": "",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!dOy9q3VwrIM2n3Hj"
+}

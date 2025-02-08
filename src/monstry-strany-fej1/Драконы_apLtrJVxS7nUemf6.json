@@ -1,0 +1,22 @@
+{
+  "name": "Драконы",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "apLtrJVxS7nUemf6",
+  "description": "",
+  "sort": 176954,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": 1738601118990,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!apLtrJVxS7nUemf6"
+}

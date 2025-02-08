@@ -1,0 +1,22 @@
+{
+  "name": "Гуманоиды",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "T8vm8J2TrppJ5KIr",
+  "description": "",
+  "sort": 176563,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601094999,
+    "modifiedTime": 1738601115062,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!T8vm8J2TrppJ5KIr"
+}

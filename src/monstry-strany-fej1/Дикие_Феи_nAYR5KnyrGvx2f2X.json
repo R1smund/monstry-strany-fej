@@ -1,0 +1,22 @@
+{
+  "name": "Дикие Феи",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "nAYR5KnyrGvx2f2X",
+  "description": "",
+  "sort": 168750,
+  "color": "#5755aa",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601068705,
+    "modifiedTime": 1738601107270,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!nAYR5KnyrGvx2f2X"
+}
