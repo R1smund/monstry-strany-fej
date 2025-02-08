@@ -1,0 +1,104 @@
+{
+  "folder": null,
+  "name": "Ветра перемен",
+  "img": "icons/magic/air/wind-vortex-swirl-red.webp",
+  "description": "<p>Рядом с вами проносится штормовой ветер, изменяющий ход времени.</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "FpyBORvg5BnCGnvk",
+      "text": "Время отматывается на 8 часов назад",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!SLpxuOLji0ABsr74.FpyBORvg5BnCGnvk"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "F7zu9JJ8q8Ht2ttE",
+      "text": "Время перескакивает на 1 час вперёд",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!SLpxuOLji0ABsr74.F7zu9JJ8q8Ht2ttE"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "4co6G57kH197teaK",
+      "text": "Время отматывается на 1 минуту назад",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!SLpxuOLji0ABsr74.4co6G57kH197teaK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "MHPkisTjhj2bWQDl",
+      "text": "Время отматывается на 1 час назад",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!SLpxuOLji0ABsr74.MHPkisTjhj2bWQDl"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "tpdxDki5HGmM18Gu",
+      "text": "Время перескакивает на 8 часов вперёд",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!SLpxuOLji0ABsr74.tpdxDki5HGmM18Gu"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "Q7vfR4xA3PE05sYg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601294631,
+    "modifiedTime": 1738601294631,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "formula": "1d10",
+  "_id": "SLpxuOLji0ABsr74",
+  "sort": 0,
+  "_key": "!tables!SLpxuOLji0ABsr74"
+}

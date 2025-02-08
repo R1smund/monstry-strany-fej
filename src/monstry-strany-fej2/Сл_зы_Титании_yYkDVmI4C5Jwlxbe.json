@@ -1,0 +1,44 @@
+{
+  "folder": null,
+  "name": "Слёзы Титании",
+  "img": "icons/magic/water/waves-water-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "ynxU9v1oBcXqpRBK",
+      "text": "Это явление представляет собой освежающий дождь из фиолетовых капель, сопровождающийся звуками птиц и исцеляющий [[/r 1d6]] хитов",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!yYkDVmI4C5Jwlxbe.ynxU9v1oBcXqpRBK"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "Q7vfR4xA3PE05sYg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601296045,
+    "modifiedTime": 1738601296045,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "formula": "1d1",
+  "_id": "yYkDVmI4C5Jwlxbe",
+  "sort": 0,
+  "_key": "!tables!yYkDVmI4C5Jwlxbe"
+}
