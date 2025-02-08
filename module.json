@@ -1,0 +1,62 @@
+{
+  "id": "monstry-strany-fej",
+  "title": "Монстры страны Фей",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "В данном модуле содержится: 99 существ + растения встречаемые в стране Фей; Краткое описание политического устройства страны фей; Таблица случайных встреч.",
+  "authors": [
+    {
+      "name": "R1smund",
+      "discord": ".r1smund",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "monstry-strany-fej",
+      "label": "Страна Фей",
+      "path": "packs/monstry-strany-fej",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monstry-strany-fej1",
+      "label": "Монстры страны Фей",
+      "path": "packs/monstry-strany-fej1",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monstry-strany-fej2",
+      "label": "Таблица случайных встреч",
+      "path": "packs/monstry-strany-fej2",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://drive.google.com/uc?export=download&id=1-q22JRXw0Pj-kA0UImwS6mhu1UYgvWkR"
+}
