@@ -1,0 +1,22 @@
+{
+  "name": "Неблагой двор",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "TrCubEMqUoA5yk2R",
+  "description": "",
+  "sort": 150000,
+  "color": "#963c3c",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": 1738601066958,
+    "modifiedTime": 1738601085072,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!TrCubEMqUoA5yk2R"
+}

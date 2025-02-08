@@ -1,0 +1,22 @@
+{
+  "name": "Монстры",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "RmOUhMpkOmkOvGVX",
+  "description": "",
+  "sort": 177083,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": 1738601132239,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!RmOUhMpkOmkOvGVX"
+}

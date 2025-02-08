@@ -1,0 +1,22 @@
+{
+  "name": "Правители",
+  "sorting": "m",
+  "folder": "TrCubEMqUoA5yk2R",
+  "type": "Actor",
+  "_id": "d99EqmEOCoP7rDGS",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!d99EqmEOCoP7rDGS"
+}

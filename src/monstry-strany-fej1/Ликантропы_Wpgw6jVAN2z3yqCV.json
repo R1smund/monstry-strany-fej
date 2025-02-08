@@ -1,0 +1,22 @@
+{
+  "name": "Ликантропы",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "Wpgw6jVAN2z3yqCV",
+  "description": "",
+  "sort": 177077,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": 1738601128309,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!Wpgw6jVAN2z3yqCV"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Растения",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "0c4TUJFwLM5H2DUq",
+  "description": "",
+  "sort": 177089,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": 1738601130540,
+    "lastModifiedBy": "Q7vfR4xA3PE05sYg"
+  },
+  "_key": "!folders!0c4TUJFwLM5H2DUq"
+}

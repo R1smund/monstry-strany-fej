@@ -1,0 +1,22 @@
+{
+  "name": "Летний двор",
+  "sorting": "a",
+  "folder": "bsj1iTLs0SolAqjH",
+  "type": "Actor",
+  "_id": "RPEOYZbFWio5eca3",
+  "description": "",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.1.2",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!RPEOYZbFWio5eca3"
+}
