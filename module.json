@@ -58,6 +58,6 @@
       }
     }
   ],
-   "manifest": "https://raw.githubusercontent.com/R1smund/monstry-strany-fej/refs/heads/main/module.json",
-  "download": "https://github.com/R1smund/monstry-strany-fej/blob/main/monstry-strany-fej.zip"
+   "manifest": "https://raw.githubusercontent.com/R1smund/monstry-strany-fej/main/module.json",
+  "download": "https://github.com/R1smund/monstry-strany-fej/raw/main/monstry-strany-fej.zip"
 }
